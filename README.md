@@ -1,7 +1,5 @@
 # My-PIXEL-ART-ANIMATIONS 
 
-
-Wiesiek Menel 
 ![Zul-Chodzi-Lewo](https://user-images.githubusercontent.com/107995480/175079368-f72ee500-a8c4-48bb-abcb-1f190b5fb341.gif)
 ![zul-wiesiek](https://user-images.githubusercontent.com/107995480/175079562-41311596-cc5a-4f24-be6b-3e28ad79bb5d.gif)
 ![zul-Upadek](https://user-images.githubusercontent.com/107995480/175079798-42ad4f30-f0d0-486d-bc1c-d1ad3fa63cff.gif)
